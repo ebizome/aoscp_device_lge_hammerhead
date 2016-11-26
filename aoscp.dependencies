@@ -1,0 +1,14 @@
+[
+ {
+  "repository": "android_kernel_lge_hammerhead",
+  "target_path": "kernel/lge/hammerhead",
+  "branch": "cm-14.1",
+  "remote": "cm"
+ },
+ {
+  "repository": "proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "branch": "n7.1",
+  "remote": "aicp"
+ }
+]
